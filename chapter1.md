@@ -6,4 +6,4 @@ Matukio was originally developed by Dirk Vollmar for Mambo / Joomla 1.5. As the 
 
 Since then Matukio Events has been completely rewritten to the Joomla MVC Framework, bootstrap and many new features and technologies have been added.
 
-![](icon-matukio-400px.jpg)
+![](matukio-responsive.png)
