@@ -7,5 +7,5 @@
 * [System requirements](system_requirements.md)
 * [Joomla Template issues](joomla_template_issues.md)
 * [Adjust CSS](adjust_css.md)
-* [Adjust Language](adjust_language.md)
+* [Change Language](adjust_language.md)
 
