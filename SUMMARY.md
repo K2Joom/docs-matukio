@@ -2,5 +2,5 @@
 
 * [Introduction](README.md)
 * [What is Matukio](chapter1.md)
-* Indicative uses
+* [Indicative uses](indicative_uses.md)
 
