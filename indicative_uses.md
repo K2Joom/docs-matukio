@@ -10,11 +10,3 @@ For which tasks can you use Matukio Events (not a complete list)
  
 Matukio Events fits both small and big event organizers. From local party venue, over schools offering seminars in many locations, until big international event companies. Only your imagination is the limit!
 
-If you have wishes or questions don't hesitate contacting us! We look forward to hear from you!
-
-Kind regards,
-
-Yves Hoppe
-
-Matukio Lead Developer
-(yves [at] compojoom.com)
