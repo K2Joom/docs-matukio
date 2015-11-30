@@ -6,4 +6,5 @@
 * [Installation](installation.md)
 * [System requirements](system_requirements.md)
 * [Joomla Template issues](joomla_template_issues.md)
+* Adjust CSS
 
