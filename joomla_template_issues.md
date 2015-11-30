@@ -1,0 +1,2 @@
+# Joomla Template issues
+
