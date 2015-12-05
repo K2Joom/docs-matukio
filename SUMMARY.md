@@ -8,4 +8,5 @@
 * [Joomla Template issues](joomla_template_issues.md)
 * [Adjust CSS](adjust_css.md)
 * [Change Text (Language Overrides)](adjust_language.md)
+* Developer section
 
