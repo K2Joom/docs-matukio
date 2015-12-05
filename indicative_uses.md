@@ -1,6 +1,6 @@
 ## Indicative uses
 
-For which tasks can you use Matukio Events (not a complete list)
+For which tasks can you use Matukio Events? (not a complete list)
 
 * Manage events, webinars, seminars or courses
 * With multiple organizers (Joomla Frontend and Backend) and event submissions
