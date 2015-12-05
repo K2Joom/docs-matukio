@@ -10,4 +10,5 @@
 * [Change Text (Language Overrides)](adjust_language.md)
 * [Developer section](developer_section.md)
    * [Plugin Events](plugin_events.md)
+   * Payment Plugins
 
