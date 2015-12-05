@@ -9,4 +9,5 @@
 * [Adjust CSS](adjust_css.md)
 * [Change Text (Language Overrides)](adjust_language.md)
 * [Developer section](developer_section.md)
+   * Plugin Events
 
