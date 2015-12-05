@@ -10,5 +10,5 @@ Matukio automatically detects installed payment plugins (Type payment) plg_payme
 
 ## Missing one?
 
-We can also make you a quote on developing a plugin for you.
+We can also make you a quote on developing a plugin for you. Just drop us a line at contact-us [at] compojoom.com
 
