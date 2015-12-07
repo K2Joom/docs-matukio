@@ -36,5 +36,21 @@ Return values are ignored.
 
 ##Event save: 
 
+####onBeforeSaveEvent ($event, $post)
+
+$event - contains the current (JTable bind) event before saving. Required fields have been already validated.
+
+$post - The complete post of the event form
+
+If you return an array with an "error" key the validation status changes to failed. The value is used as error message.
+
+####onAfterSaveEvent ($event, $isNew)
+
+$event is the saved and checked in event object. 
+
+$isNew is true when this is a newly created event, false when we edit an existing one.
+
+Return values are ignored.
+
 ###Event presentation:
 
