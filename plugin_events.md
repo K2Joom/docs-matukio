@@ -5,6 +5,7 @@ Matukio brings support for Joomla plugins and allows  you to easily inject your 
 See also [Creating a Plugin for Joomla](https://docs.joomla.org/J3.x:Creating_a_Plugin_for_Joomla)
 
 ##Booking:
+(Context = com_matukio.book)
 
 ####onValidateBooking ($post, $event, $status)
 
@@ -35,6 +36,7 @@ $event contains the event object for the booking.
 Return values are ignored.
 
 ##Event save: 
+(Context = com_matukio.event)
 
 ####onBeforeSaveEvent ($event, $post)
 
@@ -52,5 +54,14 @@ $isNew is true when this is a newly created event, false when we edit an existin
 
 Return values are ignored.
 
-###Event presentation:
+###Single event presentation:
+(Context = com_matukio.event)
+
+####onContentAfterDisplay ($event, $params)
+
+The result is added after the event display. (See CComment for a sample)
+
+$event - The event object (as reference)
+
+$params - The menu params for this view
 
