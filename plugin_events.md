@@ -34,7 +34,7 @@ $event contains the event object for the booking.
 
 Return values are ignored.
 
-###Event creation: 
+##Event save: 
 
 ###Event presentation:
 
