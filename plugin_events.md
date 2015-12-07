@@ -7,7 +7,9 @@ See also [Creating a Plugin for Joomla](https://docs.joomla.org/J3.x:Creating_a_
 ##Booking:
 (Context = com_matukio.book)
 
-####onValidateBooking ($post, $event, $status)
+---
+
+#####onValidateBooking ($post, $event, $status)
 
 $post contains the whole Post of the booking form as a reference.
 
@@ -19,7 +21,8 @@ If you return an array with an "error" key the validation status changes to fail
 
 >Please note for administrators / organizers in the backend all validation rules are turned off.
 
-####onBeforeSaveBooking ($booking, $event)
+
+#####onBeforeSaveBooking ($booking, $event)
 
 $booking contains the current booking object bound to the JTable object, before it is saved. 
 
@@ -27,7 +30,9 @@ $event contains the event object for the booking.
 
 Return values are ignored.
 
-####onAfterBookingSave ($booking, $event)
+---
+
+#####onAfterBookingSave ($booking, $event)
 
 $booking contains the current booking (JTable object), after it is saved and checked in. 
 
@@ -35,10 +40,14 @@ $event contains the event object for the booking.
 
 Return values are ignored.
 
+---
+
 ##Event save: 
 (Context = com_matukio.event)
 
-####onBeforeSaveEvent ($event, $post)
+---
+
+#####onBeforeSaveEvent ($event, $post)
 
 $event - contains the current (JTable bind) event before saving. Required fields have been already validated.
 
@@ -46,7 +55,9 @@ $post - The complete post of the event form
 
 If you return an array with an "error" key the validation status changes to failed. The value is used as error message.
 
-####onAfterSaveEvent ($event, $isNew)
+---
+
+#####onAfterSaveEvent ($event, $isNew)
 
 $event is the saved and checked in event object. 
 
@@ -54,10 +65,14 @@ $isNew is true when this is a newly created event, false when we edit an existin
 
 Return values are ignored.
 
-###Single event presentation:
+---
+
+##Single event presentation:
 (Context = com_matukio.event)
 
-####onContentAfterDisplay ($event, $params)
+---
+
+#####onContentAfterDisplay ($event, $params)
 
 The result is added after the event display. (See CComment for a sample)
 
@@ -65,3 +80,5 @@ $event - The event object (as reference)
 
 $params - The menu params for this view
 
+
+---
