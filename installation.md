@@ -1,4 +1,4 @@
-## Installation
+## Installation of Matukio Events
 
 Installing Matukio is not different than installing any other Joomla!™ extension on your site. You can read the complete instructions for installing Joomla!™ extensions on the official help page. 
 
