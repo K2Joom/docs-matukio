@@ -8,7 +8,7 @@
 * [Installation](installation.md)
    * [System requirements](system_requirements.md)
    * [Uninstall](uninstall.md)
-   * Updating
+   * [Updating](updating.md)
 * [Joomla Template issues](joomla_template_issues.md)
 * [Developer section](developer_section.md)
    * [Plugin Events](plugin_events.md)
