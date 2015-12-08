@@ -2,9 +2,9 @@
 
 * [Introduction](README.md)
    * [What is Matukio](chapter1.md)
+   * [Indicative uses](indicative_uses.md)
    * [Different Subscriptions](different_versions.md)
    * [License](license.md)
-* [Indicative uses](indicative_uses.md)
 * [Installation](installation.md)
 * [System requirements](system_requirements.md)
 * [Joomla Template issues](joomla_template_issues.md)
