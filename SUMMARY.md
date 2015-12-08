@@ -12,4 +12,5 @@
    * [Plugin Events](plugin_events.md)
    * [Payment Plugins](payment_plugins.md)
 * [Available Module Positions](available_module_positions.md)
+* Routing
 
