@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-   * Different Versions
+   * [Different Versions](different_versions.md)
 * [What is Matukio](chapter1.md)
 * [Indicative uses](indicative_uses.md)
 * [Installation](installation.md)
