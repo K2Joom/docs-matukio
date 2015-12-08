@@ -12,7 +12,7 @@ If set to low you receive a timeout error during upgrade.
 
 This is can be a tricky one, as there is often no error message showing up. The installation package of Matukio is around 6 MB large. So you should set your **upload_max_filesize** to at least 8M. See [PHP documentation](http://php.net/manual/de/ini.core.php#ini.upload-max-filesize) for more details.
 
-### Permission problems
+### Permission issues
 
 > Please note: Changing permissions to 0777 (rwxrwxrwx) is not a solution, it's a security issue!
 
