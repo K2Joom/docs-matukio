@@ -3,7 +3,7 @@
 > Please note that updating **never** requires uninstalling the extension before!
 
 
-There are multiple ways to update Matukio Events.
+There are multiple ways to update Matukio Events, the easiest solution is using the Joomla! extension updater.
 
 ### Update automatically (Joomla extension updater)
 
