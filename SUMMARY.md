@@ -19,7 +19,7 @@
    * [Adjust CSS](adjust_css.md)
    * [Change Text (Language Overrides)](adjust_language.md)
    * [Error: 404 / 500 View / Controller not found](error_404__500_view__controller_not_found.md)
-   * Installation and Updating issues
+   * [Installation and Updating issues](installation_and_updating_issues.md)
 * [Hotspots](hotspots.md)
 * [CComment](ccomment.md)
 
