@@ -11,4 +11,5 @@
 * [Developer section](developer_section.md)
    * [Plugin Events](plugin_events.md)
    * [Payment Plugins](payment_plugins.md)
+* Available Module Positions
 
