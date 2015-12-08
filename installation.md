@@ -15,8 +15,6 @@ The releases are listed with the newest release always on top. Click on the rele
 The installation package can be installed on Joomla 3.x. You can use the installation package to update from previous version as well. Just install it, without uninstalling the old package.
 
 
-***
-####Note
+>####Note
 
-The Zip package includes all available modules, plugins and libraries. During the installation of the component they will be installed automatically. The German translations is directly included in Matukio, so you don't need to install it separately.
-***
+> The Zip package includes all available modules, plugins and libraries. During the installation of the component they will be installed automatically. The German translations is directly included in Matukio, so you don't need to install it separately.
