@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
    * [Different Subscriptions](different_versions.md)
-   * License
+   * [License](license.md)
 * [What is Matukio](chapter1.md)
 * [Indicative uses](indicative_uses.md)
 * [Installation](installation.md)
