@@ -13,4 +13,5 @@
    * [Payment Plugins](payment_plugins.md)
 * [Available Module Positions](available_module_positions.md)
 * [Routing (SEF URLs)](routing.md)
+* FAQ
 
