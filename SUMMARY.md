@@ -6,8 +6,8 @@
    * [Different Subscriptions](different_versions.md)
    * [License](license.md)
 * [Installation](installation.md)
+   * [System requirements](system_requirements.md)
    * Uninstall
-* [System requirements](system_requirements.md)
 * [Joomla Template issues](joomla_template_issues.md)
 * [Developer section](developer_section.md)
    * [Plugin Events](plugin_events.md)
