@@ -1,9 +1,9 @@
 # Summary
 
 * [Introduction](README.md)
+   * [What is Matukio](chapter1.md)
    * [Different Subscriptions](different_versions.md)
    * [License](license.md)
-* [What is Matukio](chapter1.md)
 * [Indicative uses](indicative_uses.md)
 * [Installation](installation.md)
 * [System requirements](system_requirements.md)
