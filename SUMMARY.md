@@ -7,7 +7,7 @@
    * [License](license.md)
 * [Installation](installation.md)
    * [System requirements](system_requirements.md)
-   * Uninstall
+   * [Uninstall](uninstall.md)
 * [Joomla Template issues](joomla_template_issues.md)
 * [Developer section](developer_section.md)
    * [Plugin Events](plugin_events.md)
