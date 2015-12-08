@@ -6,7 +6,6 @@
 * [Installation](installation.md)
 * [System requirements](system_requirements.md)
 * [Joomla Template issues](joomla_template_issues.md)
-* [Change Text (Language Overrides)](adjust_language.md)
 * [Developer section](developer_section.md)
    * [Plugin Events](plugin_events.md)
    * [Payment Plugins](payment_plugins.md)
@@ -14,5 +13,6 @@
 * [Routing (SEF URLs)](routing.md)
 * [FAQ](faq.md)
    * [Adjust CSS](adjust_css.md)
+   * [Change Text (Language Overrides)](adjust_language.md)
    * [Error: 404 / 500 View / Controller not found](error_404__500_view__controller_not_found.md)
 
