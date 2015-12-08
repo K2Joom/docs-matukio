@@ -17,9 +17,9 @@
 * [Routing (SEF URLs)](routing.md)
 * [FAQ](faq.md)
    * [Installation and Updating issues](installation_and_updating_issues.md)
+   * [Error: 404 / 500 View / Controller not found](error_404__500_view__controller_not_found.md)
    * [Adjust CSS](adjust_css.md)
    * [Change Text (Language Overrides)](adjust_language.md)
-   * [Error: 404 / 500 View / Controller not found](error_404__500_view__controller_not_found.md)
 * [Hotspots](hotspots.md)
 * [CComment](ccomment.md)
 
