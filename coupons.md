@@ -14,5 +14,5 @@ It's also possible to set for how long the coupon should be valid. Just the publ
 
 In the details view you can also see how often an coupon code has been used.
 
-> We suggest to only use uppercase words without any special characters for coupon codes.
+> We suggest that you only use uppercase words without any special characters for coupon codes.
 
