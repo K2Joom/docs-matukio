@@ -6,7 +6,7 @@ There are some common issues installing / updating Joomla! extensions. In this c
 
 Please make sure that your [maximum execution time](http://php.net/manual/en/info.configuration.php#ini.max-execution-time) is set high enough to process the update execution. On large sites updating Matukio can take more time then the default value.
 
-If set to low you receive a timeout error during upgrade.
+If it is set too low you receive a timeout error during upgrade.
 
 ### Maximum upload file size
 
