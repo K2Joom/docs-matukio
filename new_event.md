@@ -122,4 +122,5 @@ You can have global different fees or event specific fees. For a detailed docume
 
 #### Top and Hot events
 
-This adds a glyphicon to the title and a CSS class in the event-list or upcoming details view to the event container (mat_top_event and mat_hot_event). You can use these to customize the look further.
+This adds a glyphicon to the title and a CSS class in the event-list or upcoming details view to the event container (mat_top_event and mat_hot_event). You can use these to customize the style even further.
+
