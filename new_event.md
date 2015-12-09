@@ -124,3 +124,10 @@ You can have global different fees or event specific fees. For a detailed docume
 
 This adds a glyphicon to the title and a CSS class in the event-list or upcoming details view to the event container (mat_top_event and mat_hot_event). You can use these to customize the style even further.
 
+## Additional Booking-fields
+
+Here you can set up event specific booking fields. These complement the global booking fields and are shown only in this event.
+
+> Please note: With Matukio 6 these fields are going to be replaced by a new form  creator making it easier to set them up.
+
+If you want to use these in the export templates or booking confirmations use the placeholder MAT_BOOKING_CUSTOM1 to CUSTOM20 for this.
