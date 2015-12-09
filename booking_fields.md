@@ -43,25 +43,6 @@ If you have a multi-language site, you can also use translation placeholders her
 
 See [Joomla! language overrides](https://docs.joomla.org/J3.x:Language_Overrides_in_Joomla) for more informations on this topic.
 
-
-The following field types are available for an booking field:
-
-* Text (A simple one line text field for user inputs- e.g. <input type="text" ..)
-* Text area (A multi line text input field)
-* Select (A drop-down select list with multiple items where users can select one)
-* Radiobuttons (Only one value selectable)
-* Checkboxes (Multiple values selectable)
-* Spacer (a separator to group your content - similar to a HR HTML element)
-* Spacer Text (a separator with your own custom text)
-
-If you use Select, Checkbox or Radiobuttons you need to provide the possible values in the Values field, e.g. which values the user can choose between.
-
-The syntax is pretty straight forward: 
-
-{element1=Text1}{element2=Text2}
-
-The text is displayed to the user and the element used for intern (id, name etc.) naming of the element. The element name is not allowed to have any special characters (including spaces). If you leave the element empty and set required to Yes, the validation fails if not another element is selected. This can be used to show for example "please select" as the first option, forcing users to select an element.
-
 ### Page
 
 The booking form has one (as a setting) to four pages. If it is an paid event and you enabled payment processing it has four pages.
@@ -81,3 +62,25 @@ Only fields on the first page of the booking form are validated with JavaScript 
 The third page is mostly a confirmation page showing all user entries. 
 
 > PLEASE NOTE: The first and third page are always shown (and named like that), only the second page can be hidden (if no payment is done)! In most cases you want your new booking field to be on page one.
+
+### Type
+
+The following field types are available for an booking field:
+
+* Text (A simple one line text field for user inputs- e.g. <input type="text" ..)
+* Text area (A multi line text input field)
+* Select (A drop-down select list with multiple items where users can select one)
+* Radiobuttons (Only one value selectable)
+* Checkboxes (Multiple values selectable)
+* Spacer (a separator to group your content - similar to a HR HTML element)
+* Spacer Text (a separator with your own custom text)
+
+If you use Select, Checkbox or Radiobuttons you need to provide the possible values in the Values field, e.g. which values the user can choose between.
+
+The syntax is pretty straight forward: 
+
+{element1=Text1}{element2=Text2}
+
+The text is displayed to the user and the element used for intern (id, name etc.) naming of the element. The element name is not allowed to have any special characters (including spaces). If you leave the element empty and set required to Yes, the validation fails if not another element is selected. This can be used to show for example "please select" as the first option, forcing users to select an element.
+
+### 
