@@ -43,3 +43,13 @@ If you have a multi-language site, you can also use translation placeholders her
 
 See [Joomla! language overrides](https://docs.joomla.org/J3.x:Language_Overrides_in_Joomla) for more informations on this topic.
 
+
+The following field types are available for an booking field:
+
+* Text (A simple one line text field for user inputs- e.g. <input type="text" ..)
+* Text area (A multi line text input field)
+* Select (A drop-down select list with multiple items where users can select one)
+* Radiobuttons (Only one value selectable)
+* Checkboxes (Multiple values selectable)
+* Spacer (a separator to group your content - similar to a HR HTML element)
+* Spacer Text (a separator with your own custom text)
