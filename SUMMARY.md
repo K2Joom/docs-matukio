@@ -18,7 +18,7 @@
 * [FAQ](faq.md)
    * [Installation and Updating issues](installation_and_updating_issues.md)
    * [Error: 404 / 500 View / Controller not found](error_404__500_view__controller_not_found.md)
-   * Blank Page
+   * [Blank Page](blank_page.md)
    * [Adjust CSS](adjust_css.md)
    * [Change Text (Language Overrides)](adjust_language.md)
 * [Hotspots](hotspots.md)
