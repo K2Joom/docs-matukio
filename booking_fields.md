@@ -14,6 +14,8 @@ Event specific booking fields are created directly when you edit or create an ev
 
 Configuration -> Booking-fields
 
+The booking fields in Matukio are 100% dynamic. This gives you the freedom to completly configure the booking form to your wishes. But this also has some downsides too. Please read through this section before you make any changes.
+
 ![](global-booking-fields.jpg)
 
 You can create a new one by just clicking on the "New" button.
