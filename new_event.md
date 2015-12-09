@@ -131,3 +131,19 @@ Here you can set up event specific booking fields. These complement the global b
 > Please note: With Matukio 6 these fields are going to be replaced by a new form  creator making it easier to set them up.
 
 If you want to use these in the export templates or booking confirmations use the placeholder MAT_BOOKING_CUSTOM1 to CUSTOM20 for this.
+
+## Files
+
+You can add up to five different files to the event here and limit the download to certain users.
+
+## Custom fields data
+
+If you have set up custom event fields (see custom fields section for more details) you insert there values / data here.
+
+Fields marked with an asterisk * are required to create an event. If you don't fill out an custom field (which is not required) it is not displayed at all in the frontend.
+
+## Overrides
+
+Here you can override some global settings. Like setting up different fees for only this single event. Or creating a custom booking confirmation email.
+
+You can also add **Meta-Keywords** and a **Meta-Description** here.
