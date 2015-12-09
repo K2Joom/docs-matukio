@@ -114,6 +114,8 @@ You can also set that booking  this fee should be limited to a certain Joomla us
 
 Before selecting a tax you have create one. See Taxes for more information on that view.
 
+> If you disable payment processing or disable all payment plugins the second and last page of the booking form will not show up, but you can use fees.
+
 #### Different fees
 
 If you want to use different fees for this event (e.g. discounts or additional fees for certain types of tickets) choose "Yes" here.
