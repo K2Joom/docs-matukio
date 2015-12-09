@@ -14,6 +14,10 @@ To create a new category just click on "New". The only required field is the tit
 
 The description is  only shown if you select a **single** category in the event-list overview of Matukio Events.
 
-Access / ACL levels are **completely** supported by Matukio. For example if you set access to registered only logged in users are able to view events in this category.
+Joomla access / ACL levels are **completely** supported by Matukio. For example if you set access to registered only logged in users are able to view events in this category.
+
+You can add an category image (which is used when there is no event image) in the Options Tab. It should be in portrait mode and not larger then 600px.
+
+The settings in the publishing tab are currently not used by Matukio. 
 
 
