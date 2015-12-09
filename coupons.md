@@ -16,3 +16,5 @@ In the details view you can also see how often an coupon code has been used.
 
 > We suggest that you only use uppercase words without any special characters for coupon codes.
 
+For a single booking only **one** coupon code can be used!
+
