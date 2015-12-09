@@ -93,6 +93,11 @@ Here you can set if the field should be populated by the users details. Currentl
 
 Set the position where the booking field should be displayed. (Counting up from one)
 
+### Custom CSS
+
+It is also possible to add some custom CSS styles directly through the booking fields editor. For example width: 100px; will change the fields width to 100px.
+
+
 ### Per place
 
 Set if this booking field should be filled out per place / seat or just once for the whole booking (only for multiple places).
