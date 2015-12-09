@@ -43,4 +43,4 @@ If the icon is green it is still bookable (seats left). If it yellow new booking
 
 ### Book
 
-This shows if an date is still bookable or if it is exceeded.
+This shows if an date is still bookable or if the closing date is exceeded.
