@@ -26,6 +26,6 @@
 * [Using Matukio Component](using_matukio_component.md)
    * [Categories](categories.md)
    * [Events overview](eventsoverview_md.md)
+   * [Dates View](dates_view.md)
    * [Create a new Event](new_event.md)
-* [Dates View](dates_view.md)
 
