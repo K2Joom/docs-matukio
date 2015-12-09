@@ -1,4 +1,6 @@
-# Categories for Matukio Events
+# Categories for Matukio Events (Admin)
+
+Event Management -> Categories
 
 > We use the Joomla! category manager in Matukio Events. Because of this the administrator area of Matukio looks different there.
 
