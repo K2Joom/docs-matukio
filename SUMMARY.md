@@ -28,7 +28,7 @@
    * [Events Overview](eventsoverview_md.md)
    * [Create a new Event](new_event.md)
    * [Dates View](dates_view.md)
-   * Booking fields
+   * [Booking fields](booking_fields.md)
    * [Locations](locations.md)
    * [Organizers](organizers.md)
    * [Coupons](coupons.md)
