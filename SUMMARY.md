@@ -24,5 +24,5 @@
 * [Hotspots](hotspots.md)
 * [CComment](ccomment.md)
 * [Using Matukio Component](using_matukio_component.md)
-   * The events overview
+   * [The events overview](the_events_overview.md)
 
