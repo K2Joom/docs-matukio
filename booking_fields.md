@@ -24,8 +24,22 @@ You can create a new one by just clicking on the "New" button.
 
 ### Field name
 
-This is the most important setting. This is an intern identifier used for this booking field. It has to be unique (also partly having a booking field called test and another one test2 is going to cause problems!)
+This is the most important setting. This is an **intern** identifier used for this booking field. It has to be unique (also partly having a booking field called test and another one test2 is going to cause problems!)
 
-This 
+The field name is also used for the placeholders in the templates (like booking email, ticket etc.). 
+
+MAT_BOOKING_FIELDNAME
+
+For example: if the field name is firstname, the placeholder is MAT_BOOKING_FIRSTNAME.
 
 > You don't need to translate this one! As it is used only internally. No special characters and spaces are allowed.
+
+
+### Caption / Label / Translationstring
+
+If you don't have a multi-language site you just insert the text you want to display as label here. For an booking field, which asks for the first name, it just would be First name.
+
+If you have a multi-language site, you can also use translation placeholders here. For example create a Joomla language override for COM_MATUKIO_MYFIELDNAME.
+
+See [Joomla! language overrides](https://docs.joomla.org/J3.x:Language_Overrides_in_Joomla) for more informations on this topic.
+
