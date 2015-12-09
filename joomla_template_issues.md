@@ -10,6 +10,6 @@ Matukio is optimized to work with almost all Joomla! templates. We particularly 
 
 Our CSS code is priorized (with a container - compojoom-bootstrap), so normally your template should not interfere with it.
 
-See also [Adjust CSS section](adjust_css.md)
+See also [Adjust CSS](adjust_css.md)
 
 > Please note: Fixing CSS / JavaScript issues caused by your template or other extensions is not covered by our support!
