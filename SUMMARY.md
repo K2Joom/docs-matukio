@@ -30,4 +30,5 @@
    * [Dates View](dates_view.md)
    * [Organizers](organizers.md)
    * [Coupons](coupons.md)
+* Locations
 
