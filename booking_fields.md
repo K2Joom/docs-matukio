@@ -53,3 +53,18 @@ The following field types are available for an booking field:
 * Checkboxes (Multiple values selectable)
 * Spacer (a separator to group your content - similar to a HR HTML element)
 * Spacer Text (a separator with your own custom text)
+
+If you use Select, Checkbox or Radiobuttons you need to provide the possible values in the Values field, e.g. which values the user can choose between.
+
+The syntax is pretty straight forward: 
+
+{element1=Text1}{element2=Text2}
+
+The text is displayed to the user and the element used for intern (id, name etc.) naming of the element. The element name is not allowed to have any special characters (including spaces). If you leave the element empty and set required to Yes, the validation fails if not another element is selected. This can be used to show for example "please select" as the first option, forcing users to select an element.
+
+The booking form has one (as a setting) to four pages. If it is an paid event and you enabled payment processing it has four pages.
+
+> If you disable payment processing or disable all payment plugins the second and last page will not show up, but you can use fees.
+
+
+Only fields on page one are validated with JavaScript (all fields are additionally validated in PHP). The third page is mostly a confirmation page showing all user entries. PLEASE NOTE: The first and third page are always shown (and named like that), only the second page can be hidden (if no payment is done)! In most cases you want your new booking field to be on page one.
