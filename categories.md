@@ -1,4 +1,4 @@
-# Categories for Matukio Events (Admin)
+# Categories for Matukio Events (Administrator)
 
 Event Management -> Categories
 
