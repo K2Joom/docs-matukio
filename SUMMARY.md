@@ -27,6 +27,6 @@
    * [Categories](categories.md)
    * [Events Overview](eventsoverview_md.md)
    * [Create a new Event](new_event.md)
-   * Coupons
    * [Dates View](dates_view.md)
+   * Coupons
 
