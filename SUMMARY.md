@@ -25,7 +25,7 @@
 * [CComment](ccomment.md)
 * [Using Matukio Component](using_matukio_component.md)
    * [Categories](categories.md)
-   * [Events overview](eventsoverview_md.md)
+   * [Event Overview](eventsoverview_md.md)
    * [Create a new Event](new_event.md)
    * [Dates View](dates_view.md)
 
