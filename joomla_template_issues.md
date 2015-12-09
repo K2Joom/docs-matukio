@@ -12,4 +12,4 @@ Our CSS code is priorized (with a container - compojoom-bootstrap), so normally 
 
 See also [Adjust CSS section](adjust_css.md)
 
-> Please note: Fixing CSS / JavaScript issues caused by your template or other extensions is no support!
+> Please note: Fixing CSS / JavaScript issues caused by your template or other extensions is not covered by our support!
