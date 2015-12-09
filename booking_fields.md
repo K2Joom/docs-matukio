@@ -22,4 +22,6 @@ You can create a new one by just clicking on the "New" button.
 
 ### Field name
 
-This is the most important setting. This is an intern identifier used for this booking field
+This is the most important setting. This is an intern identifier used for this booking field.
+
+> You don't need to translate this one! As it is used only internally. No special characters and spaces are allowed.
