@@ -107,3 +107,5 @@ If you use a custom location you can supply a Google Maps address here. This one
 #### Fees
 
 Set the normal / default event fees here. All fees in Matukio should include taxes (there is also a setting to show the net value, but you always insert them with taxes).
+
+
