@@ -72,6 +72,14 @@ Allow booking on the wait-list (Payment processing is disabled for this, so no o
 
 This is used for the Auto confirmation cronjob in Matukio. If you set this to a certain amount and this is not reached X days before an event it is going to be automatically cancelled.
 
+If you don't want to use this cronjob you can just ignore this setting.
+
+### Max. participants per booking
+
+Set how many seats / places can be reserved with a single booking.
+
+> Tip: You can set this to zero if you want to disable online booking for this event.
+
 ## Additional Tab
 
 In the additional section you complement the basic ones. You most probably want to fill some of them too, but they are not required for creating an event.
