@@ -13,3 +13,12 @@ In the third column you see the Event title for which the date is created. If yo
 ### Event Number
 
 In Matukio every event has an unique event number, you can define it yourself or use the integrated algorithm. Which uses a continuing number and the year (number/year) the event takes place.
+
+If you don't want to use it just disable it in the settings.
+
+### Cancelled
+
+If you click on the cancel icon, the date for the event is canceled. All participants are informed about this by email (as long as you don't disable this feature in the settings).
+
+### Bookings
+
