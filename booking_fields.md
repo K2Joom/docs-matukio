@@ -1,4 +1,4 @@
-# Booking fields (Administrator)
+****# Booking fields (Administrator)
 
 In Matukio Events there are two types of booking fields:
 
@@ -62,9 +62,22 @@ The syntax is pretty straight forward:
 
 The text is displayed to the user and the element used for intern (id, name etc.) naming of the element. The element name is not allowed to have any special characters (including spaces). If you leave the element empty and set required to Yes, the validation fails if not another element is selected. This can be used to show for example "please select" as the first option, forcing users to select an element.
 
+### Page
+
 The booking form has one (as a setting) to four pages. If it is an paid event and you enabled payment processing it has four pages.
+
+First page is for participants information, like first name or the address. 
+
+The second page is for payment settings (if any)
+
+The third page is the confirmation page and where the terms and conditions, captcha etc. are displayed.
+
+The fourth page is for payment processing. E.g. you are redirected to PayPal or 2Checkout, leave your bank details or see instructions on how to pay. (Depending on available payment plugins and the users payment choice on the second page).
 
 > If you disable payment processing or disable all payment plugins the second and last page will not show up, but you can use fees.
 
+Only fields on the first page of the booking form are validated with JavaScript (all fields are validated in PHP).
 
-Only fields on page one are validated with JavaScript (all fields are additionally validated in PHP). The third page is mostly a confirmation page showing all user entries. PLEASE NOTE: The first and third page are always shown (and named like that), only the second page can be hidden (if no payment is done)! In most cases you want your new booking field to be on page one.
+The third page is mostly a confirmation page showing all user entries. 
+
+> PLEASE NOTE: The first and third page are always shown (and named like that), only the second page can be hidden (if no payment is done)! In most cases you want your new booking field to be on page one.
