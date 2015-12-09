@@ -89,4 +89,14 @@ Here you can set if the field should be populated by the users details. Currentl
 
 > If the user is logged in and already made a booking this data is used to pre-allocate the data.
 
+### Ordering
 
+Set the position where the booking field should be displayed. (Counting up from one)
+
+### Per place
+
+Set if this booking field should be filled out per place / seat or just once for the whole booking (only for multiple places).
+
+### Show in Overview
+
+If you want 
