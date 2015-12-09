@@ -114,5 +114,12 @@ You can also set that booking  this fee should be limited to a certain Joomla us
 
 Before selecting a tax you have create one. See Taxes for more information on that view.
 
+#### Different fees
 
+If you want to use different fees for this event (e.g. discounts or additional fees for certain types of tickets) choose "Yes" here.
 
+You can have global different fees or event specific fees. For a detailed documentation on this see [different fees documentation](different_fees.md).
+
+#### Top and Hot events
+
+This adds a glyphicon to the title and a CSS class in the event-list or upcoming details view to the event container (mat_top_event and mat_hot_event). You can use these to customize the look further.
