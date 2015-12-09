@@ -84,5 +84,22 @@ Set how many seats / places can be reserved with a single booking.
 
 In the additional section you complement the basic ones. You most probably want to fill some of them too, but they are not required for creating an event.
 
-The 
+### Detailed description
 
+The detailed description is shown on the event detail page. You can extensively present your event here. Use any HTML, Plugins, Images etc. here you like!
+
+You can also show text only to certain users. For example:
+
+[sem_paid]Your Text[/sem_paid]
+
+"Your text" then will only be shown to logged in participants, who already paid their event fees.
+
+### Image for the event overview
+
+This image is only used in the event-list overview and on the upcoming events view. It should not be larger then 600px and is going to fit best if its in portrait format.
+
+If you want to have an image in the event detail page just use the detailed description for that. (Here you want to have probably a landscape format image)
+
+### Google Maps location (only for custom locations)
+
+If you use a custom location you can supply a Google Maps address here. This one is not displayed directly!
