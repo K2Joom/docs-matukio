@@ -14,7 +14,7 @@ The form is divided into 6 different tabs.
 
 ## Basic Tab
 
-### Begin, end and closing date
+#### Begin, end and closing date
 
 Please insert the dates in the following date format (or just use the calendar):
 
@@ -24,7 +24,7 @@ YYYY-MM-DD HH:MM:SS
 
 This is the default ISO format of dates and used in all Matukio forms. In the Joomla frontend it is formatted based on your settings in the Matukio configuration.
 
-### Brief description
+#### Brief description
 
 This one is used for the event-list overview, upcoming events view etc (and for the event detail page if you don't supply a detailed description).
 
@@ -44,7 +44,7 @@ This user also receives a copy of the booking confirmation emails and gets the c
 
 You can also create nice detail / information pages for organizers.
 
-### Recurring event generator
+#### Recurring event generator
 
 If you want to set up an recurring event just set the option to "Yes". After this a date generator will show up.
 
@@ -58,7 +58,7 @@ The span between begin and end of an recurring event is depending on the time be
 
 > Please note: You shouldn't generate more then 80-100 dates at once and you can always create new dates later.
 
-### Max. Participants
+#### Max. Participants
 
 Set the maximum number for participants for this event. After this number is reached you have to options:
 
