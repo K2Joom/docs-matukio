@@ -6,6 +6,7 @@ In this section we are mostly going to look at the organize pages, not at the ma
 
 Starting with Matukio 5.3, for every user you select as publisher (or which submit events) an organizer profile is created.  
 
+The organizer page is automatically linked from the event-list overview and the event detail page. 
 
 
 
