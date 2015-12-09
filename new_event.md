@@ -36,7 +36,7 @@ You can either set an existing location here (if you have created any) or insert
 
 ### Organizer
 
-This is the Joomla user who is going to manage the event and bookings (if he has the required ACL rights for that - core.edit.own / core.create). This user for example also receives a copy of the booking confirmation email.
+This is the Joomla user who is going to manage the event and bookings (if he has the required ACL rights for that - core.edit.own / core.create). This user also receives a copy of the booking confirmation emails and gets the contact requests for the event etc.
 
 You can also create nice detail / information pages for organizers.
 
