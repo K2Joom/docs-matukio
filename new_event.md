@@ -58,6 +58,20 @@ The span between begin and end of an recurring event is depending on the time be
 
 > Please note: You shouldn't generate more then 80-100 dates at once and you can always create new dates later.
 
+### Max. Participants
+
+Set the maximum number for participants for this event. After this number is reached you have to options:
+
+Either end the booking process for the event
+
+OR
+
+Allow booking on the wait-list (Payment processing is disabled for this, so no one gets charged for this).
+
+### Min. Participants
+
+This is used for the Auto confirmation cronjob in Matukio. If you set this to a certain amount and this is not reached X days before an event it is going to be automatically cancelled.
+
 ## Additional Tab
 
 In the additional section you complement the basic ones. You most probably want to fill some of them too, but they are not required for creating an event.
