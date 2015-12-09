@@ -29,6 +29,6 @@
    * [Create a new Event](new_event.md)
    * [Dates View](dates_view.md)
    * [Organizers](organizers.md)
-   * Locations
+   * [Locations](locations.md)
    * [Coupons](coupons.md)
 
