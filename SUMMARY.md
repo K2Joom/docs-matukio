@@ -27,5 +27,5 @@
    * [Categories](categories.md)
    * [Events overview](eventsoverview_md.md)
    * [Create a new Event](new_event.md)
-* Dates View
+* [Dates View](dates_view.md)
 
