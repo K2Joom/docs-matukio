@@ -18,7 +18,7 @@ YYYY-MM-DD HH:MM:SS
 
 2016-01-31 15:01:10
 
-This is the default ISO format of dates and used in all Matukio forms. In the Joomla frontend it is formatted based on the 
+This is the default ISO format of dates and used in all Matukio forms. In the Joomla frontend it is formatted based on your settings in the Matukio configuration.
 
 
 ### Recurring event generator
