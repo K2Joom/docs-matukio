@@ -29,4 +29,5 @@
    * [Create a new Event](new_event.md)
    * [Dates View](dates_view.md)
    * [Coupons](coupons.md)
+* Organizers
 
