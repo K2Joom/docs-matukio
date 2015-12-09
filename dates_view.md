@@ -22,3 +22,25 @@ If you click on the cancel icon, the date for the event is canceled. All partici
 
 ### Bookings
 
+The booking columns shows how many active booking are existing for this date. It only counts **active** bookings and not pending, archived or deleted ones. If you click on the number you are redirected to the bookings overview for this date.
+
+### Rating
+
+If you enabled the event rating feature of Matukio you see the current rating of the date here.
+
+### Hits
+
+This shows how many people have visited the event detail page for this event.
+
+
+### Status
+
+If the status icon is green the event has not started yet. If it is yellow it currently running and if it is red it has ended.
+
+### Available
+
+If the icon is green it is still bookable (seats left). If it yellow new bookings are going to be on the wait-list. If it is red it is fully booked.
+
+### Book
+
+This shows if an date is still bookable or if it is exceeded.
