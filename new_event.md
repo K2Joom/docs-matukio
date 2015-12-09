@@ -108,4 +108,11 @@ If you use a custom location you can supply a Google Maps address here. This one
 
 Set the normal / default event fees here. All fees in Matukio should include taxes (there is also a setting to show the net value, but you always insert them with taxes).
 
+From this value all other fees (if you have any) are derived.
+
+You can also set that booking  this fee should be limited to a certain Joomla user / ACL group. But most probably you want to keep it public.
+
+Before selecting a tax you have create one. See Taxes for more information on that view.
+
+
 
