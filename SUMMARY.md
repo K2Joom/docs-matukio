@@ -28,6 +28,6 @@
    * [Events Overview](eventsoverview_md.md)
    * [Create a new Event](new_event.md)
    * [Dates View](dates_view.md)
+   * Organizers
    * [Coupons](coupons.md)
-* Organizers
 
