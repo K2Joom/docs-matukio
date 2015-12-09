@@ -99,4 +99,4 @@ Set if this booking field should be filled out per place / seat or just once for
 
 ### Show in Overview
 
-If you want 
+If you want you can show this field as a column in the booking overviews.
