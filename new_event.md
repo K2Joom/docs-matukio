@@ -146,4 +146,4 @@ Fields marked with an asterisk * are required to create an event. If you don't f
 
 Here you can override some global settings. Like setting up different fees for only this single event. Or creating a custom booking confirmation email.
 
-You can also add custom **Meta-Keywords** and a **Meta-Description** here.
+You can also add custom **Meta-Keywords** and a **Meta-Description** for the event detail page here.
