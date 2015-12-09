@@ -83,4 +83,10 @@ The syntax is pretty straight forward:
 
 The text is displayed to the user and the element used for intern (id, name etc.) naming of the element. The element name is not allowed to have any special characters (including spaces). If you leave the element empty and set required to Yes, the validation fails if not another element is selected. This can be used to show for example "please select" as the first option, forcing users to select an element.
 
-### 
+### Preallocation data
+
+Here you can set if the field should be populated by the users details. Currently Matukio supports importing data from the Joomla user profile plugin or Community Builder. 
+
+> If the user is logged in and already made a booking this data is used to pre-allocate the data.
+
+
