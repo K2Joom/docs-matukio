@@ -23,5 +23,5 @@
    * [Change Text (Language Overrides)](adjust_language.md)
 * [Hotspots](hotspots.md)
 * [CComment](ccomment.md)
-* Using Matukio Component
+* [Using Matukio Component](using_matukio_component.md)
 
