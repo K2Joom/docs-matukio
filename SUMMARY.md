@@ -30,6 +30,6 @@
    * [Dates View](dates_view.md)
    * [Locations](locations.md)
    * [Organizers](organizers.md)
+   * Booking fields
    * [Coupons](coupons.md)
-* Booking fields
 
