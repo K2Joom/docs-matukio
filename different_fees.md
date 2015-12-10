@@ -2,6 +2,8 @@
 
 Payment -> Different fees
 
+Related Youtube video : [Matukio Tutorial #4 - Payment, Different Fees, Coupons, Taxes and Payment](https://www.youtube.com/watch?v=o5P_r_HZGps)
+
 Matukio supports different fees for your events. And not only discounts, but also additions.
 
 > There are two type of different fees, global ones for all events and event specific ones. Event specific ones override the global ones.
