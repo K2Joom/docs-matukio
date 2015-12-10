@@ -105,3 +105,5 @@ Set if this booking field should be filled out per place / seat or just once for
 ### Show in Overview
 
 If you want you can show this field as a column in the booking overviews to faster access it details. This can be a very handy feature!
+
+There is also a setting to show it in the (public) participants overview in the frontend.
