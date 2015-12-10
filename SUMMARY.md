@@ -33,4 +33,5 @@
    * [Locations](locations.md)
    * [Organizers](organizers.md)
    * [Coupons](coupons.md)
+* Taxes
 
