@@ -30,8 +30,8 @@
    * [Dates View](dates_view.md)
    * [Booking fields](booking_fields.md)
    * [Different fees](different_fees.md)
+   * Taxes
    * [Locations](locations.md)
    * [Organizers](organizers.md)
-   * Taxes
    * [Coupons](coupons.md)
 
