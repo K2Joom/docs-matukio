@@ -32,6 +32,6 @@
    * [Different fees](different_fees.md)
    * [Locations](locations.md)
    * [Organizers](organizers.md)
+   * Taxes
    * [Coupons](coupons.md)
-* Taxes
 
