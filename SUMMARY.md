@@ -29,7 +29,7 @@
    * [Create a new Event](new_event.md)
    * [Dates View](dates_view.md)
    * [Booking fields](booking_fields.md)
-   * Different fees
+   * [Different fees](different_fees.md)
    * [Locations](locations.md)
    * [Organizers](organizers.md)
    * [Coupons](coupons.md)
