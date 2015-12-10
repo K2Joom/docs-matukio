@@ -32,5 +32,9 @@ You can set in which date span the fee should be bookable. Please always fill in
 
 Date format is as usual: YYYY-MM-DD (2017-12-31)
 
+### Event specific fees
+
+They basically work the same, you can find them when you create / edit an event in the overrides Tab. If you use them the global ones are overwritten and not extended.
+
 
 
