@@ -31,8 +31,8 @@
    * [Booking fields](booking_fields.md)
    * [Different fees](different_fees.md)
    * [Taxes](taxes.md)
+   * Settings
    * [Locations](locations.md)
    * [Organizers](organizers.md)
    * [Coupons](coupons.md)
-* Settings
 
