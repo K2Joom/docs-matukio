@@ -104,7 +104,7 @@ Matukio offers an automatic PDF invoice generation. You can design the layout he
 
 ### Ticket Template (PDF)
 
-Working the same as the invoice template. All placeholders supported.
+Works as the invoice template. All placeholders supported.
 
 
 
