@@ -8,6 +8,10 @@ In this section you can customize Matukio to your needs. You can hover over each
 
 It's basically divided into 8 sections, for most users the first four are the important ones.
 
+### Reset
+
+You can always reset all settings to the default by clicking on the reset button in the top menu. They are completely recreated, so this is also working if the settings are for some reason broken.
+
 ### Joomla ACL settings
 
 Click on the Options button in the top menu to access the Joomla ACL settings for Matukio.
