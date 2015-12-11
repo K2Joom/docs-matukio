@@ -16,6 +16,13 @@ There are two types of placeholders you can use:
 
 ### Content placeholders
 
+To insert the data from Matukio, you use content placeholders (for example MAT_BOOKING_CITY), which are replaced through data.
+
+For a full list of place holders see Chapter 5! MAT_EVENT_FIELD will be replaced through the event data. MAT_BOOKING_ALL_DETAILS_HTML helps you saving much time, instead of writing every field name you can use this one to display all booking details, including all fields. MAT_EVENT_ALL_DETAILS_HTML does the same for the event data. If you use the NON-HTML version you use _TEXT instead of _HTML.
+
+MAT_SIGNATURE is replaced through the text given in the Matukio settings. (By default: Please do not answer this E-Mail) - you can change this to anything you like.
+
+
 Content placeholders are divided into three different kinds (depending on context).
 
 #### Booking placeholders
@@ -101,8 +108,5 @@ Working the same as the invoice template. All placeholders supported.
 
 
 
-To insert the users booking data you use the MAT_BOOKING_FIELDNAME (for example MAT_BOOKING_CITY), which will be replaced through the matching data. For a full list of place holders see Chapter 5! MAT_EVENT_FIELD will be replaced through the event data. MAT_BOOKING_ALL_DETAILS_HTML helps you saving much time, instead of writing every field name you can use this one to display all booking details, including all fields. MAT_EVENT_ALL_DETAILS_HTML does the same for the event data. If you use the NON-HTML version you use _TEXT instead of _HTML.
-
-MAT_SIGNATURE is replaced through the text given in the Matukio settings. (By default: Please do not answer this E-Mail) - you can change this to anything you like.
 
 
