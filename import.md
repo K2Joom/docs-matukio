@@ -2,6 +2,8 @@
 
 Matukio offers various import interfaces for events.
 
+![](import.jpeg)
+
 ### CSV file import
 
 You can find the CSV template file in the media/com_matukio/assets folder of your Joomla installation. (There is also a link on the import dialog).
