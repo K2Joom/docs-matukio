@@ -2,7 +2,7 @@
 
 Configuration -> Settings
 
-In this section you can customize Matukio to your needs. You can hover over each options label to see an explanation Tooltip what the setting does. Each tab has an intro text which settings you can find in it.
+In this section you can customize Matukio to your needs. You can **hover** over each options label to see an **detailed explanation** (Tooltip), which describes what the setting does. Each tab has an intro text which settings you can find in it.
 
 > Please note that some settings only apply to the modern template and others only to the bootstrap 3 one.
 
