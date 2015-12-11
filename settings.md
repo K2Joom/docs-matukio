@@ -6,9 +6,11 @@ In this section you can customize Matukio to your needs. You can **hover** over 
 
 > Please note that some settings only apply to the modern template and others only to the bootstrap 3 one.
 
+![](settings.jpg)
+
 It's basically divided into 8 sections, for most users the first four are the important ones.
 
-### Reset
+### Reset settings
 
 You can always reset all settings to the default by clicking on the reset button in the top menu. They are completely recreated, so this is also working if the settings are for some reason broken.
 
