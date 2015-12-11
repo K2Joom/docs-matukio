@@ -13,15 +13,9 @@ There are two types of placeholders you can use:
 
 * **Content placeholders**, starting with MAT_. These will be automatically replaced through an corresponding data value. For example MAT_BOOKING_FIRSTNAME will be replaced through the participants first name.
 
-
 ### Content placeholders
 
-To insert the data from Matukio, you use content placeholders (for example MAT_BOOKING_CITY), which are replaced through data.
-
-For a full list of place holders see Chapter 5! MAT_EVENT_FIELD will be replaced through the event data. MAT_BOOKING_ALL_DETAILS_HTML helps you saving much time, instead of writing every field name you can use this one to display all booking details, including all fields. MAT_EVENT_ALL_DETAILS_HTML does the same for the event data. If you use the NON-HTML version you use _TEXT instead of _HTML.
-
-MAT_SIGNATURE is replaced through the text given in the Matukio settings. (By default: Please do not answer this E-Mail) - you can change this to anything you like.
-
+To insert the information from Matukio into your text, you use content placeholders (for example MAT_BOOKING_CITY).
 
 Content placeholders are divided into three different kinds (depending on context).
 
@@ -29,13 +23,19 @@ Content placeholders are divided into three different kinds (depending on contex
 
 Starting with MAT__BOOKING, these are probably the most important for you. Most of them are completely dynamic because they depend on your booking field setup.
 
+MAT_BOOKING_ALL_DETAILS_HTML helps you saving much time, instead of writing every field name, you can use this one to display all booking details.
+
 #### Event placeholders
 
 Starting with MAT__EVENT, these contain the event information. For example MAT_EVENT_TITLE contains the title of the current event.
 
+MAT_EVENT_ALL_DETAILS_HTML does the same for the event data. If you use the NON-HTML version you use _TEXT instead of _HTML.
+
 #### Other placeholders
 
 There also some other placeholders, like MAT_DATE, or MAT_USER_NAME, which contain other data.
+
+MAT_SIGNATURE is replaced through the text given in the Matukio settings. (By default: Please do not answer this E-Mail) - you can change this to anything you like.
 
 > For a full list and more informations just click on the Matukio Placeholders Button below the editor.
 
