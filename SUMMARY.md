@@ -31,10 +31,10 @@
    * [Booking fields](booking_fields.md)
    * [Different fees](different_fees.md)
    * [Taxes](taxes.md)
+   * Templates
    * [Settings](settings.md)
    * [Locations](locations.md)
    * [Organizers](organizers.md)
    * [Coupons](coupons.md)
    * [Import](import.md)
-* Templates
 
