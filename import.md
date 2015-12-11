@@ -28,7 +28,11 @@ The event data is mapped the following way:
 * Publishdate = Current date
 * Publisher / Organizer = Current user
 
+###Seminar Event Manager Import
 
+Since Matukio 2.2 you can import the old events, bookings and categories from Seminar. 
 
+You just have to set the old Joomla 1.5 seminar tables (have to be on the same database) and the old Joomla 1.5 category table!
 
+Copy the seminar tables and the Joomla category table to the same database your current Joomla installation uses.
 
