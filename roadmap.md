@@ -45,6 +45,7 @@ Maybe:
 * Some new modules along with it
 * An additional Joomla template (like the one on matukio.compojoom.com)
 * Rewrite of the modern template (improved responsiveness, cleanup, but only few design changes)
+* Save in Google Calendar button in the event-detail page
 
 ### Matukio 5.4
 
@@ -52,9 +53,14 @@ Depends how many features are going to make it into Matukio 5.3, if all above ar
 
 * Multi certificate printing
 * Share info about event after booking
+* Google Calendar integration (How would you like one?)
+
 
 ### Matukio 6
 
 Big release with some major changes
 
+* Complete new form builder for the booking form (Drag & Drop)
+* New Event specific fields (With the form Builder) 
+* Field sets for events
 * 
