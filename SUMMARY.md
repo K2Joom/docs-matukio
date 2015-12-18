@@ -20,7 +20,7 @@
    * [Blank Page](blank_page.md)
    * [Joomla Template issues](joomla_template_issues.md)
    * [Adjust CSS](adjust_css.md)
-   * Multi Language Support
+   * [Multi Language Support](multi_language_support.md)
    * [Change Text (Language Overrides)](adjust_language.md)
 * [Hotspots](hotspots.md)
 * [CComment](ccomment.md)
