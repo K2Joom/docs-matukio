@@ -53,7 +53,7 @@ Depends how many features are going to make it into Matukio 5.3, if all above ar
 
 * Multi certificate printing
 * Share info about event after booking
-* Google Calendar integration (How would you like one?)
+* Google Calendar integration (Not sure on the details yet)
 
 
 ### Matukio 6
