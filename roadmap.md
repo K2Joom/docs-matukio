@@ -20,7 +20,7 @@ This is a major release, bringing many new features and improvements.
 * Improved statistics
 * Option to have no seat / place limitation (e.g. 99999)
 * Override certification email in event
-* 
+* Automatic creation of organizer accounts when used as publisher
 
 Technical changes
 
