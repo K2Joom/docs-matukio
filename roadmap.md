@@ -31,7 +31,8 @@ Technical changes
 * Replace of Bootstrap Modal (too many issues with templates)
 * Improved routing (include language)
 * Check if email is already registered for guest bookers, if not allowed to book multiple tickets
-* 
+* Remove + sign on event detail page
+* Some more 
 
 Maybe:
 
@@ -40,4 +41,20 @@ Maybe:
 * JSON API for Matukio informations (Joomla! webservice)
 * Multiple images with a new image uploader (see Hotspots)
 * Automatic discount for buying multiple tickets (Not sure on how to integrate this..)
+* New template and theme for the event-list and event 
+* Some new modules along with it
+* An additional Joomla template (like the one on matukio.compojoom.com)
+* Rewrite of the modern template (improved responsiveness, cleanup, but only few design changes)
+
+### Matukio 5.4
+
+Depends how many features are going to make it into Matukio 5.3, if all above are implemented we are going to skip this version.
+
+* Multi certificate printing
+* Share info about event after booking
+
+### Matukio 6
+
+Really big release with some major changes
+
 * 
