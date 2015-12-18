@@ -37,5 +37,6 @@
    * [Organizers](organizers.md)
    * [Coupons](coupons.md)
    * [Import](import.md)
+   * Multi Language Support
 * [Roadmap](roadmap.md)
 
