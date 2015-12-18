@@ -55,6 +55,6 @@ Depends how many features are going to make it into Matukio 5.3, if all above ar
 
 ### Matukio 6
 
-Really big release with some major changes
+Big release with some major changes
 
 * 
