@@ -21,6 +21,7 @@
    * [Joomla Template issues](joomla_template_issues.md)
    * [Adjust CSS](adjust_css.md)
    * [Change Text (Language Overrides)](adjust_language.md)
+* Multi Language Support
 * [Hotspots](hotspots.md)
 * [CComment](ccomment.md)
 * [Using Matukio Component](using_matukio_component.md)
