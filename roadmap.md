@@ -63,4 +63,6 @@ Big release with some major changes
 * Complete new form builder for the booking form (Drag & Drop)
 * New Event specific fields (With the form Builder) 
 * Field sets for events
-* 
+* Event planer / calendar for organizers / admins
+* Archive options and views
+* New improved modules
