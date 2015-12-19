@@ -39,6 +39,6 @@
    * [Coupons](coupons.md)
    * [Import](import.md)
    * Multi Language Support
-   * Check-In participants
+   * [Check-In participants](check-in_participants.md)
 * [Roadmap](roadmap.md)
 
