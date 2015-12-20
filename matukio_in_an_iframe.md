@@ -1,4 +1,4 @@
-# Matukio in an IFrame
+# Matukio Events in an IFrame
 
 In Joomla there is a nice parameter (same as index2.php in Joomla 1.5) for just showing the extension itself.
 
