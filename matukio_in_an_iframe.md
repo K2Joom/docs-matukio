@@ -12,4 +12,5 @@ This removes the whole Template (including modules etc.) and only shows the comp
 
 You can use this to embed Matukio in other websites.
 
-> tmpl=component is only working for a single site, when users click on links, Joomla changes back to the default template.
+> tmpl=component is only working for a single site, when users click on links, Joomla changes back to the default template. Use styles and custom templates if you to use the navigation.
+
