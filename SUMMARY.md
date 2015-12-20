@@ -40,7 +40,7 @@
    * [Check-In participants](check-in_participants.md)
 * [Roadmap](roadmap.md)
 * [Advanced Topics](advanced_topics.md)
+   * [Matukio in an IFrame](matukio_in_an_iframe.md)
    * [CComment](ccomment.md)
    * [Hotspots](hotspots.md)
-   * [Matukio in an IFrame](matukio_in_an_iframe.md)
 
