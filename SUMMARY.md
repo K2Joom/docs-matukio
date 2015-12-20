@@ -21,7 +21,6 @@
    * [Change Text (Language Overrides)](adjust_language.md)
    * [Multi Language Support](multi_language_support.md)
 * [Hotspots](hotspots.md)
-* [CComment](ccomment.md)
 * [Using Matukio Component](using_matukio_component.md)
    * [Categories](categories.md)
    * [Events Overview](eventsoverview_md.md)
@@ -41,5 +40,6 @@
    * [Available Module Positions](available_module_positions.md)
    * [Check-In participants](check-in_participants.md)
 * [Roadmap](roadmap.md)
+* [CComment](ccomment.md)
 * [Advanced Topics](advanced_topics.md)
 
