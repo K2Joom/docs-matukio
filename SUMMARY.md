@@ -20,7 +20,6 @@
    * [Adjust CSS](adjust_css.md)
    * [Change Text (Language Overrides)](adjust_language.md)
    * [Multi Language Support](multi_language_support.md)
-* [Hotspots](hotspots.md)
 * [Using Matukio Component](using_matukio_component.md)
    * [Categories](categories.md)
    * [Events Overview](eventsoverview_md.md)
@@ -42,5 +41,6 @@
 * [Roadmap](roadmap.md)
 * [Advanced Topics](advanced_topics.md)
    * [CComment](ccomment.md)
+   * [Hotspots](hotspots.md)
    * [Matukio in an IFrame](matukio_in_an_iframe.md)
 
