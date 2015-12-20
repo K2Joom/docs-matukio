@@ -13,7 +13,6 @@
    * [Plugin Events](plugin_events.md)
    * [Payment Plugins](payment_plugins.md)
 * [Available Module Positions](available_module_positions.md)
-* [Routing (SEF URLs)](routing.md)
 * [FAQ](faq.md)
    * [Installation and Updating issues](installation_and_updating_issues.md)
    * [Error: 404 / 500 View / Controller not found](error_404__500_view__controller_not_found.md)
@@ -39,6 +38,7 @@
    * [Coupons](coupons.md)
    * [Import](import.md)
    * Multi Language Support
+   * [Routing (SEF URLs)](routing.md)
    * [Check-In participants](check-in_participants.md)
 * [Roadmap](roadmap.md)
 
