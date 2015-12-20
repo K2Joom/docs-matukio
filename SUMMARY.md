@@ -40,7 +40,7 @@
    * [Available Module Positions](available_module_positions.md)
    * [Check-In participants](check-in_participants.md)
 * [Roadmap](roadmap.md)
-* [CComment](ccomment.md)
 * [Advanced Topics](advanced_topics.md)
+   * [CComment](ccomment.md)
    * [Matukio in an IFrame](matukio_in_an_iframe.md)
 
