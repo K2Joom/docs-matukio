@@ -34,7 +34,6 @@
    * [Matukio in an IFrame](matukio_in_an_iframe.md)
    * [CComment](ccomment.md)
    * [Hotspots](hotspots.md)
-* [Roadmap](roadmap.md)
 * [FAQ](faq.md)
    * [Installation and Updating issues](installation_and_updating_issues.md)
    * [Error: 404 / 500 View / Controller not found](error_404__500_view__controller_not_found.md)
@@ -43,4 +42,5 @@
    * [Adjust CSS](adjust_css.md)
    * [Change Text (Language Overrides)](adjust_language.md)
    * [Multi Language Support](multi_language_support.md)
+* [Roadmap](roadmap.md)
 
