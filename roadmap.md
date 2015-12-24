@@ -21,6 +21,7 @@ This is a major release, bringing many new features and improvements.
 * Option to have no seat / place limitation (e.g. 99999)
 * Override certification email in event
 * Automatic creation of organizer accounts when used as publisher
+* 2 new payment plugins: Sofortüberweisung and IGP
 
 Technical changes
 
