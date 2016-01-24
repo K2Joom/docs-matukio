@@ -18,6 +18,7 @@ This is a major release, bringing many new features and improvements.
 * Search for event custom fields
 * Filter for event custom fields
 * Split dates (e.g. multiple days with breaks etc.)
+* Split of date and time (you can have allday events etc.)
 * Improved statistics
 * Option to have no seat / place limitation (e.g. 99999)
 * Override certification email in event
