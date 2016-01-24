@@ -14,6 +14,7 @@ This is a major release, bringing many new features and improvements.
 * Category event list view (Table)
 * Joomla registration / login for event registration
 * New booking template
+* New event detail template: Academy
 * Search for event custom fields
 * Filter for event custom fields
 * Split dates (e.g. multiple days with breaks etc.)
@@ -21,6 +22,7 @@ This is a major release, bringing many new features and improvements.
 * Option to have no seat / place limitation (e.g. 99999)
 * Override certification email in event
 * Automatic creation of organizer accounts when used as publisher
+* Rewrite of modern template (responsive, custom fields etc)
 * 2 new payment plugins: Sofortüberweisung and IGP
 
 Technical changes
