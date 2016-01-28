@@ -16,3 +16,9 @@ ALTER TABLE `#__matukio` ADD `allday` TINYINT NOT NULL DEFAULT '0' AFTER `cancel
 ```sql
 ALTER TABLE `#__matukio` ADD `image_detail` VARCHAR(255) NOT NULL DEFAULT '' AFTER `image`;
 ```
+
+* Added currency_id field to Matukio table
+
+```sql
+ALTER TABLE `#__matukio` ADD `currency_id` INT(11) NOT NULL DEFAULT '1' AFTER `tax_id`;
+```
