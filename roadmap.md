@@ -45,7 +45,6 @@ Maybe:
 
 * Event Search module (You can already search with Joomla search module)
 * Events with a fixed date (open for a fixed date range)
-
 * Multiple images with a new image uploader (see Hotspots)
 * Automatic discount for buying multiple tickets (Not sure on how to integrate this..)
 * New template and theme for the event-list and event 
