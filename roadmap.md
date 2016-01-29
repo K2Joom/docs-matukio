@@ -30,13 +30,11 @@ This is a major release, bringing many new features and improvements.
 * Option to have no seat / place limitation (e.g. 99999)
 * Override certification email in event
 * Automatic creation of organizer accounts when used as publisher
-* Rewrite of modern template (responsive, custom fields etc)
 * 2 new payment plugins: Sofortüberweisung and IGP
 
 Technical changes
 
 * Migration to SQL Schema
-
 * Update TCPDF + Check fonts
 * Replace of Bootstrap Modal (too many issues with templates)
 * Check if email is already registered for guest bookers, if not allowed to book multiple tickets
@@ -55,7 +53,6 @@ Maybe:
 * Filter for event custom fields
 * Some new modules along with it
 * An additional Joomla template (like the one on matukio.compojoom.com)
-
 * Save in Google Calendar button in the event-detail page
 
 ### Matukio 5.4
