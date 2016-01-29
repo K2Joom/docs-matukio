@@ -45,7 +45,7 @@ Maybe:
 
 * Event Search module (You can already search with Joomla search module)
 * Events with a fixed date (open for a fixed date range)
-* JSON API for Matukio informations (Joomla! webservice)
+
 * Multiple images with a new image uploader (see Hotspots)
 * Automatic discount for buying multiple tickets (Not sure on how to integrate this..)
 * New template and theme for the event-list and event 
@@ -63,7 +63,8 @@ Depends how many features are going to make it into Matukio 5.3, if all above ar
 * Share info about event after booking
 * Google Calendar integration (Not sure on the details yet)
 * Config settings in config.xml instead of database
-
+* JSON API for Matukio informations (Joomla! webservice has to be ready first)
+ 
 ### Matukio 6
 
 Big release with some major changes
