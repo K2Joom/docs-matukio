@@ -43,6 +43,6 @@
    * [Plugin Events](plugin_events.md)
    * [Payment Plugins](payment_plugins.md)
    * [Database Changelog](database_changelog.md)
-   * Settings Changelog
+   * [Settings Changelog](settings_changelog.md)
 * [Roadmap](roadmap.md)
 
