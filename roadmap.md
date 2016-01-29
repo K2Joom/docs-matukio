@@ -2,21 +2,28 @@
 
 > Please note this roadmap is going to be changed quite often and there is no guarantee for it. 
 
-#### Matukio 5.2
+### Matukio 5.2
 
 Already released. 5.2.8 probably is going to be the last version 
 
-#### Matukio 5.3
+### Matukio 5.3
+
+####Done
+
+* Rewrite of the modern template (improved responsiveness, cleanup, but only few design changes)
+* Event list view (Table)
+* Category event list view (Table)
+* New form Validator for the booking form
+* Improved routing
+
+
+####TODO
 
 This is a major release, bringing many new features and improvements.
 
-* Event list view (Table)
-* Category event list view (Table)
 * Joomla registration / login for event registration
 * New booking template
 * New event detail template: Academy
-* Search for event custom fields
-* Filter for event custom fields
 * Split dates (e.g. multiple days with breaks etc.)
 * Split of date and time (you can have allday events etc.)
 * Improved statistics
@@ -29,11 +36,9 @@ This is a major release, bringing many new features and improvements.
 Technical changes
 
 * Migration to SQL Schema
-* Config settings in config.xml instead of database
+
 * Update TCPDF + Check fonts
-* New form Validator for the booking form
 * Replace of Bootstrap Modal (too many issues with templates)
-* Improved routing (include language)
 * Check if email is already registered for guest bookers, if not allowed to book multiple tickets
 * Remove + sign on event detail page
 * Some more 
@@ -46,9 +51,11 @@ Maybe:
 * Multiple images with a new image uploader (see Hotspots)
 * Automatic discount for buying multiple tickets (Not sure on how to integrate this..)
 * New template and theme for the event-list and event 
+* Search for event custom fields
+* Filter for event custom fields
 * Some new modules along with it
 * An additional Joomla template (like the one on matukio.compojoom.com)
-* Rewrite of the modern template (improved responsiveness, cleanup, but only few design changes)
+
 * Save in Google Calendar button in the event-detail page
 
 ### Matukio 5.4
@@ -58,7 +65,7 @@ Depends how many features are going to make it into Matukio 5.3, if all above ar
 * Multi certificate printing
 * Share info about event after booking
 * Google Calendar integration (Not sure on the details yet)
-
+* Config settings in config.xml instead of database
 
 ### Matukio 6
 
