@@ -22,3 +22,9 @@ ALTER TABLE `#__matukio` ADD `image_detail` VARCHAR(255) NOT NULL DEFAULT '' AFT
 ```sql
 ALTER TABLE `#__matukio` ADD `currency_id` INT(11) NOT NULL DEFAULT '1' AFTER `tax_id`;
 ```
+
+* Added additional_dates to Matukio table
+
+```sql
+ALTER TABLE `#__matuki` ADD `additional_dates` TEXT NOT NULL DEFAULT '' AFTER `recurring_created`;
+```
