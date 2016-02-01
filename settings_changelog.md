@@ -9,3 +9,7 @@ Currency configuration has an own table now:
 * Removed currency_code
 * Removed currency symbol
 * Removed dezimal_trennzeichen
+ 
+Added setting for user booking
+
+* booking_user_registration
