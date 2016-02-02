@@ -2,7 +2,9 @@
 
 There are two ways to 
 
-1.) Different events, categories, menu entries etc. per language
+1.) Different events, categories, menu entries etc. per language. 
+
+This is the normal Joomla! way, downside is that you have separate events, with different bookings etc. But everything is nicely separated, not causing any troubles.
 
 2.) Use Joomla language overrides for the title etc.
 
