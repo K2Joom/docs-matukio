@@ -23,7 +23,7 @@
    * [Organizers](organizers.md)
    * [Coupons](coupons.md)
    * [Import](import.md)
-   * Multi Language Support
+   * [Multi Language Support](multi_language_support.md)
    * [Routing (SEF URLs)](routing.md)
    * [Available Module Positions](available_module_positions.md)
    * [Check-In participants](check-in_participants.md)
