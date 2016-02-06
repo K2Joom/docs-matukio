@@ -2,7 +2,7 @@
 
 This is the Matukio database changelog, starting with version 5.3.0
 
-###5.3.0
+### Matukio 5.3.0
 
 * Added TinyInt (bool) Parameter allday to Matukio table (Default 0)
 
