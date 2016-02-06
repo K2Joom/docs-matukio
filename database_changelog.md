@@ -29,6 +29,8 @@ ALTER TABLE `#__matukio` ADD `currency_id` INT(11) NOT NULL DEFAULT '1' AFTER `t
 ALTER TABLE `#__matukio` ADD `additional_dates` TEXT AFTER `recurring_created`;
 ```
 
+* Added extra_fee_options to Matukio table
+
 ```sql
 ALTER TABLE #__matukio ADD extra_fee_options TEXT AFTER different_fees_override;
 ```
