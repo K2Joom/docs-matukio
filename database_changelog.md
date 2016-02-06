@@ -34,3 +34,9 @@ ALTER TABLE `#__matukio` ADD `additional_dates` TEXT AFTER `recurring_created`;
 ```sql
 ALTER TABLE #__matukio ADD extra_fee_options TEXT AFTER different_fees_override;
 ```
+
+* Added extra_fee column to Matukio Booking table
+
+```sql
+ALTER TABLE #__matukio_bookings ADD extra_fees VARCHAR(1000) DEFAULT '' NOT NULL AFTER different_fees;
+```
