@@ -26,5 +26,5 @@ ALTER TABLE `#__matukio` ADD `currency_id` INT(11) NOT NULL DEFAULT '1' AFTER `t
 * Added additional_dates to Matukio table
 
 ```sql
-ALTER TABLE `#__matukio` ADD `additional_dates` TEXT NOT NULL DEFAULT '' AFTER `recurring_created`;
+ALTER TABLE `#__matukio` ADD `additional_dates` TEXT NOT NULL AFTER `recurring_created`;
 ```
