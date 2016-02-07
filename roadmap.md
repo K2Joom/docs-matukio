@@ -37,7 +37,6 @@ This is a major release, bringing many new features and improvements.
 * New booking header template (as option)
 * Improved statistics
 * Option to have no seat / place limitation (e.g. 99999)
-* Override certification email in event
 * 2 new payment plugins: Sofortüberweisung and IGP
 * Multi-Seat discount (linear progression, like X% per additional seat)
 
@@ -62,7 +61,8 @@ Maybe:
 * An additional Joomla template (like the one on matukio.compojoom.com)
 * Save in Google Calendar button in the event-detail page
 * Additional tutor objects, separation from organizer
-
+* Override certification email in event
+* 
 ### Matukio 5.4
 
 Depends how many features are going to make it into Matukio 5.3, if all above are implemented we are going to skip this version.
