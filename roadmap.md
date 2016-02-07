@@ -28,6 +28,7 @@ Already released. 5.2.8 probably is going to be the last version
 * Better tooltips
 * Move Eventedit to JLayout
 * Event detail image (for academy template only)
+* Extra fee options (checkbox) which adds up.
 
 ####TODO
 
