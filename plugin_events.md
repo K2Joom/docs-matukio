@@ -93,7 +93,7 @@ $params - The menu params for this view
 
 ---
 ## Featured events
-(Context = com_matukio.upcomingevent)
+(Context = com_matukio.featured)
 
 The result is added after the event informations at the bottom. (See CComment for a sample)
 
