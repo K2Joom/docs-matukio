@@ -92,8 +92,6 @@ $event - The event object (as reference)
 $params - The menu params for this view
 
 ---
-
----
 ## Featured events
 (Context = com_matukio.upcomingevent)
 
