@@ -13,7 +13,7 @@ Already released. 5.2.8 probably is going to be the last release.
 * Event list view (Table)
 * Category event list view (Table)
 * Featured / Top events view
-* Extra fee options (checkboxes)
+* Extra fee options (as a checkbox!)
 * Currency objects (select it per event!)
 * Support for Joomla tags! (event)
 * New form validator for the booking form
@@ -42,7 +42,7 @@ Already released. 5.2.8 probably is going to be the last release.
 * Microdata improvements (SEO!)
 * Sharrif (social media with privacy) support
 * Pagination for bookings and participants in the frontend
-* Improved security (Protection against sql injections)
+* Improved security (Protection against SQL injections)
 
 ####TODO
 
