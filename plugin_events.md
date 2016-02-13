@@ -74,11 +74,33 @@ Return values are ignored.
 
 #####onContentAfterDisplay ($event, $params)
 
-The result is added after the event display. (See CComment for a sample)
+The result is added after the event informations at the bottom. (See CComment for a sample)
 
 $event - The event object (as reference)
 
 $params - The menu params for this view
 
+
+---
+## Upcoming events
+(Context = com_matukio.upcomingevent)
+
+The result is added after the event informations at the bottom. (See CComment for a sample)
+
+$event - The event object (as reference)
+
+$params - The menu params for this view
+
+---
+
+---
+## Featured events
+(Context = com_matukio.upcomingevent)
+
+The result is added after the event informations at the bottom. (See CComment for a sample)
+
+$event - The event object (as reference)
+
+$params - The menu params for this view
 
 ---
