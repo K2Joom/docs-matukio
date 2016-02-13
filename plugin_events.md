@@ -85,7 +85,7 @@ $params - The menu params for this view
 ## Upcoming events
 (Context = com_matukio.upcomingevent)
 
-The result is added after the event informations at the bottom. (See CComment for a sample)
+The result is added after the event short description. Called for every event, which is displayed.
 
 $event - The event object (as reference)
 
@@ -95,7 +95,8 @@ $params - The menu params for this view
 ## Featured events
 (Context = com_matukio.featured)
 
-The result is added after the event informations at the bottom. (See CComment for a sample)
+The result is added after the event short description. Called for every event, which is displayed.
+
 
 $event - The event object (as reference)
 
