@@ -65,13 +65,12 @@ Maybe:
 * Event Search module (You can already search with Joomla search module)
 * Events with a fixed date (open for a fixed date range)
 * New template for the event-list
-* Featured view for startpages, where you can select your most important events
 * Some new modules along with it
 * An additional Joomla template (like the one on matukio.compojoom.com)
 * Save in Google Calendar button in the event-detail page
 * Additional tutor objects, separation from organizer
 * Override certification email in event
-* 
+ 
 ### Matukio 5.4
 
 Depends how many features are going to make it into Matukio 5.3, if all above are implemented we are going to skip this version.
