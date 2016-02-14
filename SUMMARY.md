@@ -27,6 +27,7 @@
    * [Routing (SEF URLs)](routing.md)
    * [Available Module Positions](available_module_positions.md)
    * [Check-In participants](check-in_participants.md)
+   * Currencies
 * [Advanced Topics](advanced_topics.md)
    * [Matukio in an IFrame](matukio_in_an_iframe.md)
    * [CComment](ccomment.md)
@@ -38,7 +39,6 @@
    * [Joomla Template issues](joomla_template_issues.md)
    * [Adjust CSS](adjust_css.md)
    * [Change Text (Language Overrides)](adjust_language.md)
-   * [Multi Language Support](multi_language_support.md)
 * [Developer section](developer_section.md)
    * [Plugin Events](plugin_events.md)
    * [Payment Plugins](payment_plugins.md)
