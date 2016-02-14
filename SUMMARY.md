@@ -17,6 +17,7 @@
    * [Booking fields](booking_fields.md)
    * [Different fees](different_fees.md)
    * [Taxes](taxes.md)
+   * Currencies
    * [Templates](templates.md)
    * [Settings](settings.md)
    * [Locations](locations.md)
@@ -27,7 +28,6 @@
    * [Routing (SEF URLs)](routing.md)
    * [Available Module Positions](available_module_positions.md)
    * [Check-In participants](check-in_participants.md)
-   * Currencies
 * [Advanced Topics](advanced_topics.md)
    * [Matukio in an IFrame](matukio_in_an_iframe.md)
    * [CComment](ccomment.md)
