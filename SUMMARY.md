@@ -17,7 +17,7 @@
    * [Booking fields](booking_fields.md)
    * [Different fees](different_fees.md)
    * [Taxes](taxes.md)
-   * Currencies
+   * [Currencies](currencies.md)
    * [Templates](templates.md)
    * [Settings](settings.md)
    * [Locations](locations.md)
