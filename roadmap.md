@@ -43,6 +43,7 @@ Already released. 5.2.8 probably is going to be the last release.
 * Sharrif (social media with privacy) support
 * Pagination for bookings and participants in the frontend
 * Improved security (Protection against SQL injections)
+* Override title and max pupil in the date (for recurring dates)
 
 ####TODO
 
@@ -63,7 +64,6 @@ Technical changes
 Maybe:
 
 * Event Search module (You can already search with Joomla search module)
-* Events with a fixed date (open for a fixed date range)
 * New template for the event-list
 * Some new modules along with it
 * An additional Joomla template (like the one on matukio.compojoom.com)
@@ -82,6 +82,8 @@ Depends how many features are going to make it into Matukio 5.3, if all above ar
 * JSON API for Matukio informations (Joomla! webservice has to be ready first)
 * Multiple images with a new image uploader (see Hotspots)
 * Automatic discount for buying multiple tickets (Not sure on how to integrate this..)
+* Events with a fixed date (open for a fixed date range)
+
  
 If technically possible:
 
