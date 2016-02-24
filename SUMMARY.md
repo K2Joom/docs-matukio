@@ -39,10 +39,10 @@
    * [Joomla Template issues](joomla_template_issues.md)
    * [Adjust CSS](adjust_css.md)
    * [Change Text (Language Overrides)](adjust_language.md)
+* [Roadmap](roadmap.md)
 * [Developer section](developer_section.md)
    * [Plugin Events](plugin_events.md)
    * [Payment Plugins](payment_plugins.md)
    * [Database Changelog](database_changelog.md)
    * [Settings Changelog](settings_changelog.md)
-* [Roadmap](roadmap.md)
 
