@@ -40,3 +40,11 @@ ALTER TABLE #__matukio ADD extra_fee_options TEXT AFTER different_fees_override;
 ```sql
 ALTER TABLE #__matukio_bookings ADD extra_fees VARCHAR(1000) DEFAULT '' NOT NULL AFTER different_fees;
 ```
+
+* Added override options for Matukio recurring events
+* 
+
+```sql
+ALTER TABLE `#__matukio_recurring` ADD `override_title` VARCHAR(500) NULL DEFAULT NULL AFTER `semnum`,
+	ADD `override_maxpupil` INT NULL DEFAULT NULL AFTER `title`;
+``` 					
