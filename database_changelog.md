@@ -42,10 +42,14 @@ ALTER TABLE #__matukio_bookings ADD extra_fees VARCHAR(1000) DEFAULT '' NOT NULL
 ```
 
 * Added override options for Matukio recurring events
-* 
 
 ```sql
 ALTER TABLE `#__matukio_recurring` ADD `override_title` VARCHAR(500) NULL DEFAULT NULL AFTER `semnum`,
 	ADD `override_maxpupil` INT NULL DEFAULT NULL AFTER `title`;
 ```
 
+* Added language option for bookings
+
+```sql
+ALTER TABLE `ask_matukio_bookings` ADD `language` VARCHAR(255) NOT NULL DEFAULT '*' AFTER `checked_in`;
+```
