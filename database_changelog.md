@@ -45,7 +45,7 @@ ALTER TABLE #__matukio_bookings ADD extra_fees VARCHAR(1000) DEFAULT '' NOT NULL
 
 ```sql
 ALTER TABLE `#__matukio_recurring` ADD `override_title` VARCHAR(500) NULL DEFAULT NULL AFTER `semnum`,
-	ADD `override_maxpupil` INT NULL DEFAULT NULL AFTER `title`;
+	ADD `override_maxpupil` INT NULL DEFAULT NULL AFTER `override_title`;
 ```
 
 * Added language option for bookings
