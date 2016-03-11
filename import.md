@@ -38,3 +38,8 @@ You just have to set the old Joomla 1.5 seminar tables (have to be on the same d
 
 Copy the seminar tables and the Joomla category table to the same database your current Joomla installation uses.
 
+### Event Booking Import
+Since Matukio 5.3 you are now able to easily import your event data from the joomla component [Event Booking](http://joomdonation.com/joomla-extensions/events-booking-joomla-events-registration.html). The Event Booking importer is able to import your events, categories, locations, currencies, coupons, templates and bookings. We've tried to mkae the import as straight forward as possible. However due to some differences between Event Booking and Matukio Events we are not able to import everything 1:1. So after you do the import you'll need to check the result and confirm that it meets your expectations. Below you can find some information on how the importer works and what you need to be careful of. 
+
+#### Booking fields mapping
+We aren't able to automatically import your Event booking custom fields. You'll have to manually re-create the custom fields in Matukio. Once you've done this before you can perform the import you will need to map your Event Booking fields to the Matukio booking fields. 
