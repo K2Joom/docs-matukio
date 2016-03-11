@@ -24,7 +24,7 @@
    * [Organizers](organizers.md)
    * [Coupons](coupons.md)
    * [Import](import.md)
-       * Event Booking import
+       * [Event Booking import](import/event_booking_import.md)
    * [Multi Language Support](multi_language_support.md)
    * [Routing (SEF URLs)](routing.md)
    * [Available Module Positions](available_module_positions.md)
